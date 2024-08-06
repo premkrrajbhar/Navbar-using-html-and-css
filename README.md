@@ -5,6 +5,7 @@ This project demonstrates a responsive navbar using only HTML and CSS. The navba
 ## Table of Contents
 
 - [Features](#features)
+- [Tech Stack](#tech-stack)
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Customization](#customization)
@@ -18,6 +19,12 @@ This project demonstrates a responsive navbar using only HTML and CSS. The navba
 - **Toggle Menu:** On smaller screens, the navbar items are hidden and can be toggled using a menu icon.
 - **Custom Styling:** The navbar and its elements have custom styles, including background colors, font styles, and button designs.
 
+## Tech Stack
+
+- **HTML**: Markup language for structuring the content.
+- **CSS**: Stylesheet language for designing the layout and appearance.
+- **Font Awesome**: Icon library for bars icons.
+  
 ## Usage
 
 To use this code in your project, follow these steps:
